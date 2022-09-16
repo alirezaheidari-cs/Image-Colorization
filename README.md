@@ -11,8 +11,6 @@
 <h3 align="center">
   <img src="Images/unet_structure.jpg" width="600">
 </h3>
-[](https://www.frontiersin.org/articles/10.3389/fnagi.2022.841297/)
-
 
 ## Evaluation
 - **first row**: gray images
