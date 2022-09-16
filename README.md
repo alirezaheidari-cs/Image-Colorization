@@ -9,7 +9,7 @@
 
 ## Architecture
 <h3 align="center">
-  <img src="Images/unet_structure.jpg" width="800">
+  <img src="Images/unet_structure.jpg" width="600">
 </h3>
 
 
